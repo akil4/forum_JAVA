@@ -1,0 +1,16 @@
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/ForumAppApplication.java
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/config/PasswordConfig.java
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/config/SecurityConfig.java
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/controller/AuthController.java
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/controller/ForumController.java
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/model/Category.java
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/model/CustomUserDetails.java
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/model/ForumThread.java
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/model/Post.java
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/model/User.java
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/repository/CategoryRepository.java
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/repository/ForumThreadRepository.java
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/repository/PostRepository.java
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/repository/UserRepository.java
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/service/ForumService.java
+/home/akil4/Desktop/project/forum_JAVA/src/main/java/com/example/forum_app/service/UserService.java
